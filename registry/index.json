@@ -1,0 +1,9 @@
+{
+  "button": {
+    "version": "1.0.0",
+    "variants": {
+      "react": ["jsx", "tsx"],
+      "next": ["jsx"]
+    }
+  }
+}
